@@ -18,4 +18,12 @@ To enable the plugin open **Variety Preferences** window. Go to **Quotes** tab. 
 
 ![variety-preferences](https://user-images.githubusercontent.com/15163932/185762956-f8c21065-9738-4dda-96ed-2236fb900160.png)
 
+If you can't find the **Quotes** tab, try to update your Variety installation.
+
 The plugin doesn't support filtering by tags or authors.
+
+## See also
+
+[Official Variety website](https://peterlevi.com/variety/)
+
+Check out also my other plugin for Variety: [Programming jokes](https://github.com/p-ja/programming-jokes-variety)
